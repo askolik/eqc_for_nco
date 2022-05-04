@@ -2,7 +2,7 @@
 
 This repository contains the code that was used to generate the numerical results in arXiv_link.
 
-In this work, we investigate the advantages gained by a symmetry-preserving ansatz in a quantum reinforcement learning setting. To run a circiut type of your choice, execute one of the _run_circuit_type.py_ files after installing all required packaged in _requirements.txt_.
+In this work, we investigate the advantages gained by a symmetry-preserving ansatz in a quantum reinforcement learning setting. To run a circiut type of your choice, execute one of the _run_circuit_type.py_ files after installing all required packages in _requirements.txt_.
 
 E.g., to execute the EQC run _run_eqc.py_ and adjust the following hyperparameters of your choice:
 
