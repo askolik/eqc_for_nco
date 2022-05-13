@@ -1,6 +1,6 @@
 # Equivariant quantum circuits for neural combinatorial optimization
 
-This repository contains the code that was used to generate the numerical results in arXiv_link.
+This repository contains the code that was used to generate the numerical results in https://arxiv.org/pdf/2205.06109.pdf.
 
 In this work, we investigate the advantages gained by a symmetry-preserving ansatz in a quantum reinforcement learning setting. To run a circiut type of your choice, execute one of the _run_circuit_type.py_ files after installing all required packages in _requirements.txt_.
 
